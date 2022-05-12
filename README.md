@@ -2,6 +2,8 @@
 
 A repository and workspace for a social edition of Tagore material that was edited by Sturge Moore (MS 782_2), at the Senate House Library, University of London.
 
+[~~Sir~~ Rabindranath Tagore](tagore.jpg)
+
 **Contributing editors**
 
 Richard Espley (Senate House Library, University of London)
