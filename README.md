@@ -10,7 +10,7 @@ Matthew Fay (School of Advanced Study, University of London)
 
 Christopher Ohge (School of Advanced Study, University of London)
 
-Uli Tideau (University College London)
+Uli Tiedau (University College London)
 
 Hannah Wotton (University College London)
 
