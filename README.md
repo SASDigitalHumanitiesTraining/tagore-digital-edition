@@ -6,14 +6,14 @@ A repository and workspace for a social edition of Tagore material that was edit
 
 **Contributing editors**
 
-Richard Espley (Senate House Library, University of London)
+- Richard Espley (Senate House Library, University of London)
 
-Matthew Fay (School of Advanced Study, University of London)
+- Matthew Fay (School of Advanced Study, University of London)
 
-Christopher Ohge (School of Advanced Study, University of London)
+- Christopher Ohge (School of Advanced Study, University of London)
 
-Uli Tiedau (University College London)
+- Ulrich Tiedau (University College London)
 
-Hannah Wotton (University College London)
+- Hannah Wotton (University College London)
 
-Yasmin Akhter (Royal Holloway, University of London)
+- Yasmin Akhter (Royal Holloway, University of London)
