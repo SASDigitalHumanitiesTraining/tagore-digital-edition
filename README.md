@@ -6,7 +6,7 @@ A repository and workspace for a social edition of Tagore material that was edit
 
 *Rabindranath Tagore statue, Gordon Square, London*
 
-**Contributing editors**
+##Contributing editors
 
 - Richard Espley (Senate House Library, University of London)
 
