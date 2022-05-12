@@ -4,7 +4,7 @@ A repository and workspace for a social edition of Tagore material that was edit
 
 ![~~Sir~~ Rabindranath Tagore](tagorelondon.jpg)
 
-Rabindranath Tagore statue, Gordon Square, London
+*Rabindranath Tagore statue, Gordon Square, London*
 
 **Contributing editors**
 
