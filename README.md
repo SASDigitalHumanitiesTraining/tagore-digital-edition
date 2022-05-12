@@ -1,6 +1,6 @@
 # The collaboration of Rabindranath Tagore and Thomas Sturge Moore: A Digital Edition
 
-A workspace for a social edition of Tagore material at the Senate House Library, University of London.
+A workspace for a social edition of Tagore material that was edited by Sturge Moore (MS 782_2), at the Senate House Library, University of London.
 
 **Contributing editors**
 Richard Espley (Senate House Library, University of London)
