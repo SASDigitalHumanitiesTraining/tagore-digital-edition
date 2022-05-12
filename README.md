@@ -6,6 +6,8 @@ A workspace for a social edition of Tagore material that was edited by Sturge Mo
 
 Richard Espley (Senate House Library, University of London)
 
+Matthew Fay (School of Advanced Study, University of London)
+
 Christopher Ohge (School of Advanced Study, University of London)
 
 Uli Tideau (University College London)
