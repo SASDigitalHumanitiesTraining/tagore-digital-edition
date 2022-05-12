@@ -12,4 +12,4 @@ Uli Tideau (University College London)
 
 Hannah Wotton (University College London)
 
-Yasmin (Royal Holloway, University of London)
+Yasmin Akhter (Royal Holloway, University of London)
