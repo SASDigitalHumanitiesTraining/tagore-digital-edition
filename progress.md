@@ -20,5 +20,9 @@ Please list the page you are working on and place your initials next to it.
 |  014     | UT  | 12.05.22 |
 |  015     |     | 12.05.22 |
 |  016     |     | 12.05.22 |
-|  017     | YA  | 12.05.22 |
+|  017     |     |          |
+|  017     |     |          |
+|  017     |     |          |
+|  020     | UT  | 14.05.22 |
+
 (...)
