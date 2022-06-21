@@ -44,7 +44,6 @@ Please list the page you are working on and place your initials next to it.
 |  038     | HW  | 20.06.22 |
 |  039     | HW  | 20.06.22 |
 |  040     | HW  | 20.06.22 |
-
 |  001     | HW  | 20.06.22 |
 |  002     | HW  | 20.06.22 |
 |  003     | HW  | 20.06.22 |
